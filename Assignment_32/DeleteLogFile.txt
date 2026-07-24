@@ -1,0 +1,4 @@
+D:\Python\Python-Assignments\Assignment_32\Empty.txt
+D:\Python\Python-Assignments\Assignment_32\Empty1.txt
+D:\Python\Python-Assignments\Assignment_32\Empty2.txt
+D:\Python\Python-Assignments\Assignment_32\Empty3.txt
