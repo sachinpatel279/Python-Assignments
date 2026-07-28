@@ -1,0 +1,33 @@
+------------------------------------------------------------
+Duplicate File Removal Automation
+------------------------------------------------------------
+
+Starting Time : Tue Jul 28 20:20:28 2026
+Directory Scanned : D:\Python\Python-Assignments\Assignment_33\DuplicateFiles
+------------------------------------------------------------
+
+Scanning Started...
+
+D:\Python\Python-Assignments\Assignment_33\DuplicateFiles\AutomationSricpt1 copy.py
+D:\Python\Python-Assignments\Assignment_33\DuplicateFiles\AutomationSricpt2 copy.py
+D:\Python\Python-Assignments\Assignment_33\DuplicateFiles\AutomationSricpt3.py
+
+------------------------------------------------------------
+Duplicate File Information
+------------------------------------------------------------
+
+Duplicate File Details
+------------------------------------------------------------
+
+
+------------------------------------------------------------
+Operation Statistics
+------------------------------------------------------------
+
+Starting time of scanning : Tue Jul 28 20:20:28 2026
+Completion time of scanning : Tue Jul 28 20:20:28 2026
+Directory scanned : D:\Python\Python-Assignments\Assignment_33\DuplicateFiles
+Total number of files scanned : 3
+Total number of duplicate files found : 0
+Total number of duplicate files deleted : 0
+------------------------------------------------------------

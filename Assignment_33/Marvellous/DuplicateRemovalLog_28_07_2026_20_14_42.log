@@ -1,0 +1,63 @@
+------------------------------------------------------------
+Duplicate File Removal Automation
+------------------------------------------------------------
+
+Starting Time : Tue Jul 28 20:14:42 2026
+Directory Scanned : D:\Python\DuplicateTest
+------------------------------------------------------------
+
+Scanning Started...
+
+D:\Python\DuplicateTest\AutomationSricpt1 copy 2.py
+D:\Python\DuplicateTest\AutomationSricpt1 copy.py
+D:\Python\DuplicateTest\AutomationSricpt1.py
+D:\Python\DuplicateTest\AutomationSricpt2 copy 2.py
+D:\Python\DuplicateTest\AutomationSricpt2 copy.py
+D:\Python\DuplicateTest\AutomationSricpt2.py
+D:\Python\DuplicateTest\AutomationSricpt3 copy 2.py
+D:\Python\DuplicateTest\AutomationSricpt3 copy.py
+D:\Python\DuplicateTest\AutomationSricpt3.py
+D:\Python\DuplicateTest\AutomationSricpt4 copy.py
+D:\Python\DuplicateTest\AutomationSricpt4.py
+D:\Python\DuplicateTest\AutomationSricpt5.py
+
+------------------------------------------------------------
+Duplicate File Information
+------------------------------------------------------------
+
+Duplicate File Details
+------------------------------------------------------------
+
+Checksum : 72d9ba2b85097fda1fd4757325b54ef6
+Original File : D:\Python\DuplicateTest\AutomationSricpt1 copy 2.py
+Deleted File : D:\Python\DuplicateTest\AutomationSricpt1 copy.py
+Deleted File : D:\Python\DuplicateTest\AutomationSricpt1.py
+------------------------------------------------------------
+Checksum : aa0d2639161a74667d5f9c50ac5e4723
+Original File : D:\Python\DuplicateTest\AutomationSricpt2 copy 2.py
+Deleted File : D:\Python\DuplicateTest\AutomationSricpt2 copy.py
+Deleted File : D:\Python\DuplicateTest\AutomationSricpt2.py
+------------------------------------------------------------
+Checksum : c51e7856c4902402186b223789c2c56a
+Original File : D:\Python\DuplicateTest\AutomationSricpt3 copy 2.py
+Deleted File : D:\Python\DuplicateTest\AutomationSricpt3 copy.py
+Deleted File : D:\Python\DuplicateTest\AutomationSricpt3.py
+------------------------------------------------------------
+Checksum : 0cb46be40e8b95d59ce423bb438064da
+Original File : D:\Python\DuplicateTest\AutomationSricpt4 copy.py
+Deleted File : D:\Python\DuplicateTest\AutomationSricpt4.py
+------------------------------------------------------------
+
+------------------------------------------------------------
+Operation Statistics
+------------------------------------------------------------
+
+Starting time of scanning : Tue Jul 28 20:14:42 2026
+Completion time of scanning : Tue Jul 28 20:14:42 2026
+Directory scanned : D:\Python\DuplicateTest
+Total number of files scanned : 12
+Total number of duplicate files found : 11
+Total number of duplicate files deleted : 7
+------------------------------------------------------------
+
+Email Delivery Status : Success

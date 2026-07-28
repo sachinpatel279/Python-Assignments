@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Duplicate File Removal Automation
+------------------------------------------------------------
+
+Starting Time : Tue Jul 28 20:19:02 2026
+Directory Scanned : D:\Python\Python-Assignments\Assignment_33\DuplicateFiles
+------------------------------------------------------------
+
+Scanning Started...
+
+D:\Python\Python-Assignments\Assignment_33\DuplicateFiles\AutomationSricpt1 copy.py
+D:\Python\Python-Assignments\Assignment_33\DuplicateFiles\AutomationSricpt1.py
+D:\Python\Python-Assignments\Assignment_33\DuplicateFiles\AutomationSricpt2 copy.py
+D:\Python\Python-Assignments\Assignment_33\DuplicateFiles\AutomationSricpt2.py
+D:\Python\Python-Assignments\Assignment_33\DuplicateFiles\AutomationSricpt3.py
+
+------------------------------------------------------------
+Duplicate File Information
+------------------------------------------------------------
+
+Duplicate File Details
+------------------------------------------------------------
+
+Checksum : 72d9ba2b85097fda1fd4757325b54ef6
+Original File : D:\Python\Python-Assignments\Assignment_33\DuplicateFiles\AutomationSricpt1 copy.py
+Deleted File : D:\Python\Python-Assignments\Assignment_33\DuplicateFiles\AutomationSricpt1.py
+------------------------------------------------------------
+Checksum : aa0d2639161a74667d5f9c50ac5e4723
+Original File : D:\Python\Python-Assignments\Assignment_33\DuplicateFiles\AutomationSricpt2 copy.py
+Deleted File : D:\Python\Python-Assignments\Assignment_33\DuplicateFiles\AutomationSricpt2.py
+------------------------------------------------------------
+
+------------------------------------------------------------
+Operation Statistics
+------------------------------------------------------------
+
+Starting time of scanning : Tue Jul 28 20:19:02 2026
+Completion time of scanning : Tue Jul 28 20:19:02 2026
+Directory scanned : D:\Python\Python-Assignments\Assignment_33\DuplicateFiles
+Total number of files scanned : 5
+Total number of duplicate files found : 4
+Total number of duplicate files deleted : 2
+------------------------------------------------------------
+
+Email Delivery Status : Success
