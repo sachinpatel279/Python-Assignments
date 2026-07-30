@@ -1,0 +1,881 @@
+------------------------------------------------------------
+Running Process Information
+------------------------------------------------------------
+Log Created At : Thu Jul 30 20:56:31 2026
+------------------------------------------------------------
+
+PID : 0
+Process Name : System Idle Process
+User Name : NT AUTHORITY\SYSTEM
+------------------------------------------------------------
+PID : 4
+Process Name : System
+User Name : NT AUTHORITY\SYSTEM
+------------------------------------------------------------
+PID : 56
+Process Name : 
+User Name : None
+------------------------------------------------------------
+PID : 108
+Process Name : Registry
+User Name : None
+------------------------------------------------------------
+PID : 416
+Process Name : smss.exe
+User Name : None
+------------------------------------------------------------
+PID : 480
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 564
+Process Name : fontdrvhost.exe
+User Name : None
+------------------------------------------------------------
+PID : 648
+Process Name : csrss.exe
+User Name : None
+------------------------------------------------------------
+PID : 720
+Process Name : UserOOBEBroker.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 736
+Process Name : wininit.exe
+User Name : None
+------------------------------------------------------------
+PID : 856
+Process Name : WUDFHost.exe
+User Name : None
+------------------------------------------------------------
+PID : 884
+Process Name : services.exe
+User Name : None
+------------------------------------------------------------
+PID : 892
+Process Name : RtkNGUI64.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 904
+Process Name : LsaIso.exe
+User Name : None
+------------------------------------------------------------
+PID : 912
+Process Name : lsass.exe
+User Name : None
+------------------------------------------------------------
+PID : 980
+Process Name : taskhostw.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 1004
+Process Name : chrome.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 1116
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 1164
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 1176
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 1204
+Process Name : ms-teams.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 1272
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 1292
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 1344
+Process Name : Code.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 1356
+Process Name : conhost.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 1384
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 1448
+Process Name : RuntimeBroker.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 1452
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 1472
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 1496
+Process Name : IntelCpHDCPSvc.exe
+User Name : None
+------------------------------------------------------------
+PID : 1532
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 1564
+Process Name : python.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 1584
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 1596
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 1604
+Process Name : Code.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 1624
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 1704
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 1752
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 1796
+Process Name : Code.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 1800
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 1832
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 1848
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 1876
+Process Name : IntelCpHeciSvc.exe
+User Name : None
+------------------------------------------------------------
+PID : 1988
+Process Name : igfxCUIService.exe
+User Name : None
+------------------------------------------------------------
+PID : 2076
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2080
+Process Name : jusched.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 2100
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2168
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2216
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2224
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2236
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2300
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2344
+Process Name : vmms.exe
+User Name : None
+------------------------------------------------------------
+PID : 2376
+Process Name : chrome.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 2396
+Process Name : pet.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 2400
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2448
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 2468
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2556
+Process Name : chrome.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 2564
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2572
+Process Name : MoUsoCoreWorker.exe
+User Name : None
+------------------------------------------------------------
+PID : 2596
+Process Name : RAVBg64.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 2600
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2660
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2672
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2716
+Process Name : AggregatorHost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2736
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2748
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2788
+Process Name : MemCompression
+User Name : None
+------------------------------------------------------------
+PID : 2868
+Process Name : msedge.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 2896
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 2972
+Process Name : RtkAudioService64.exe
+User Name : None
+------------------------------------------------------------
+PID : 3092
+Process Name : taskhostw.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 3104
+Process Name : chrome.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 3108
+Process Name : Code.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 3164
+Process Name : svchost.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 3172
+Process Name : dllhost.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 3200
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 3208
+Process Name : chrome.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 3216
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 3284
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 3348
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 3424
+Process Name : spoolsv.exe
+User Name : None
+------------------------------------------------------------
+PID : 3476
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 3504
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 3560
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 3628
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 3716
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 3796
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 3804
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 3816
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 3824
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 3832
+Process Name : AdminService.exe
+User Name : None
+------------------------------------------------------------
+PID : 3848
+Process Name : AnyDesk.exe
+User Name : None
+------------------------------------------------------------
+PID : 3860
+Process Name : armsvc.exe
+User Name : None
+------------------------------------------------------------
+PID : 3876
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 3904
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 3936
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 3944
+Process Name : esif_uf.exe
+User Name : None
+------------------------------------------------------------
+PID : 4028
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 4056
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 4084
+Process Name : OneApp.IGCC.WinService.exe
+User Name : None
+------------------------------------------------------------
+PID : 4100
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 4144
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 4152
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 4160
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 4168
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 4176
+Process Name : jhi_service.exe
+User Name : None
+------------------------------------------------------------
+PID : 4200
+Process Name : QcomWlanSrvx64.exe
+User Name : None
+------------------------------------------------------------
+PID : 4216
+Process Name : TNSLSNR.EXE
+User Name : None
+------------------------------------------------------------
+PID : 4228
+Process Name : SynTPEnhService.exe
+User Name : None
+------------------------------------------------------------
+PID : 4236
+Process Name : SebWindowsServiceWCF.exe
+User Name : None
+------------------------------------------------------------
+PID : 4252
+Process Name : omtsreco.exe
+User Name : None
+------------------------------------------------------------
+PID : 4264
+Process Name : WavesSysSvc64.exe
+User Name : None
+------------------------------------------------------------
+PID : 4272
+Process Name : MsMpEng.exe
+User Name : None
+------------------------------------------------------------
+PID : 4292
+Process Name : WMIRegistrationService.exe
+User Name : None
+------------------------------------------------------------
+PID : 4308
+Process Name : MpDefenderCoreService.exe
+User Name : None
+------------------------------------------------------------
+PID : 4332
+Process Name : LMS.exe
+User Name : None
+------------------------------------------------------------
+PID : 4352
+Process Name : oracle.exe
+User Name : None
+------------------------------------------------------------
+PID : 4388
+Process Name : explorer.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 4404
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 4416
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 4712
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 4768
+Process Name : dasHost.exe
+User Name : None
+------------------------------------------------------------
+PID : 4868
+Process Name : svchost.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 4908
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 5160
+Process Name : ms-teams.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 5372
+Process Name : chrome.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 5376
+Process Name : cowork-svc.exe
+User Name : None
+------------------------------------------------------------
+PID : 5404
+Process Name : AdobeCollabSync.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 5428
+Process Name : elevation_service.exe
+User Name : None
+------------------------------------------------------------
+PID : 5512
+Process Name : svchost.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 5532
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 5864
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 5868
+Process Name : powershell.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 5884
+Process Name : chrome.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 5904
+Process Name : cmd.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 6116
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 6324
+Process Name : dllhost.exe
+User Name : None
+------------------------------------------------------------
+PID : 6468
+Process Name : fontdrvhost.exe
+User Name : None
+------------------------------------------------------------
+PID : 6584
+Process Name : RuntimeBroker.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 6596
+Process Name : dptf_helper.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 6860
+Process Name : sihost.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 6956
+Process Name : vmcompute.exe
+User Name : None
+------------------------------------------------------------
+PID : 7124
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 7160
+Process Name : jucheck.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 7172
+Process Name : SearchIndexer.exe
+User Name : None
+------------------------------------------------------------
+PID : 7180
+Process Name : msedge.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 7292
+Process Name : ctfmon.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 7416
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 7452
+Process Name : Code.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 7608
+Process Name : AdobeCollabSync.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 7684
+Process Name : PresentationFontCache.exe
+User Name : None
+------------------------------------------------------------
+PID : 7752
+Process Name : CompPkgSrv.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 7852
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 8024
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 8028
+Process Name : msedge.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 8076
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 8176
+Process Name : dwm.exe
+User Name : None
+------------------------------------------------------------
+PID : 8208
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 8244
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 8304
+Process Name : igfxEM.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 8344
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 8648
+Process Name : SecurityHealthService.exe
+User Name : None
+------------------------------------------------------------
+PID : 8784
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 8792
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 8872
+Process Name : Code.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 8880
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 8924
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 8964
+Process Name : msedge.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 9076
+Process Name : OSPPSVC.EXE
+User Name : None
+------------------------------------------------------------
+PID : 9476
+Process Name : Code.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 9512
+Process Name : chrome.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 9608
+Process Name : NisSrv.exe
+User Name : None
+------------------------------------------------------------
+PID : 9744
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 9756
+Process Name : audiodg.exe
+User Name : None
+------------------------------------------------------------
+PID : 9760
+Process Name : SearchApp.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 9776
+Process Name : TextInputHost.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 9860
+Process Name : RuntimeBroker.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 9892
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 10080
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 10344
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 10500
+Process Name : SynTPHelper.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 10512
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 10540
+Process Name : SearchApp.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 10716
+Process Name : winlogon.exe
+User Name : None
+------------------------------------------------------------
+PID : 10888
+Process Name : StartMenuExperienceHost.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 10896
+Process Name : chrome.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 11092
+Process Name : crashpad_handler.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 11100
+Process Name : chrome.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 11112
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 11236
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 11588
+Process Name : Code.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 11612
+Process Name : chrome.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 11620
+Process Name : RuntimeBroker.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 11652
+Process Name : chrome.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 11784
+Process Name : chrome.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 11860
+Process Name : RAVBg64.exe
+User Name : None
+------------------------------------------------------------
+PID : 12312
+Process Name : Code.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 12484
+Process Name : WavesSvc64.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 12588
+Process Name : Code.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 12660
+Process Name : csrss.exe
+User Name : None
+------------------------------------------------------------
+PID : 12912
+Process Name : SynTPEnh.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 12952
+Process Name : conhost.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 13012
+Process Name : svchost.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 13100
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 13136
+Process Name : svchost.exe
+User Name : None
+------------------------------------------------------------
+PID : 13168
+Process Name : OpenConsole.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 13208
+Process Name : nearby_share.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 13288
+Process Name : SystemSettings.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 13336
+Process Name : ApplicationFrameHost.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 13388
+Process Name : msedge.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 13684
+Process Name : chrome.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 13964
+Process Name : chrome.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 14128
+Process Name : chrome.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 14204
+Process Name : Code.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 14316
+Process Name : Code.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+PID : 14320
+Process Name : msedgewebview2.exe
+User Name : DESKTOP-0ONVF9B\Dell
+------------------------------------------------------------
+------------------------------------------------------------
+End Of Log File
+------------------------------------------------------------
